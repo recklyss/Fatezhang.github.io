@@ -91,13 +91,13 @@
 <meta property="og:url" content="http://zhangjiaheng.cn/blog/20210120/spring-boot-to-2-4-2/index.html">
 <meta property="og:site_name" content="陈年风楼 | 博客">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/3hmYwN.jpg">
-<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/do0JqI.png">
-<meta property="og:image" content="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/xCxT2g.png">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/3hmYwN.jpg">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/do0JqI.png">
+<meta property="og:image" content="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/xCxT2g.png">
 <meta property="og:updated_time" content="2022-11-29T14:56:28.800Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="由 SpringBoot 升级到 2.4.2 引发的 Jackson 的 JsonFormat 问题排查">
-<meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/3hmYwN.jpg">
+<meta name="twitter:image" content="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/3hmYwN.jpg">
 
 
 
@@ -329,7 +329,7 @@
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="陈年风楼">
       <meta itemprop="description" content="">
-      <meta itemprop="image" content="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/heartbeat.gif">
+      <meta itemprop="image" content="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/heartbeat.gif">
     </span>
 
     <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
@@ -452,7 +452,7 @@
       
 
       
-        <p><img src="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/3hmYwN.jpg" alt="3hmYwN"></p>
+        <p><img src="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/3hmYwN.jpg" alt="3hmYwN"></p>
 <a id="more"></a>
 <h2 id="事情是这样的"><a href="#事情是这样的" class="headerlink" title="事情是这样的"></a>事情是这样的</h2><p>在不久的以前，我们项目的 Tech Lead 决定在git repo中引入 DependaBot 来对项目中的依赖做检查并升级。我们的一个使用 SpringBoot 的服务也就这样成了待升级依赖的一份子。我们待升级的依赖包括但不限于：</p>
 <ul>
@@ -471,7 +471,7 @@
 <figure class="highlight groovy"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">jacocoTestCoverageVerification &#123;</span><br><span class="line">  dependsOn <span class="string">'jacocoTestReport'</span></span><br><span class="line">  violationRules &#123;</span><br><span class="line">    rule &#123;</span><br><span class="line">      element = <span class="string">'CLASS'</span></span><br><span class="line">      limit &#123;</span><br><span class="line">        minimum = <span class="number">1.0</span></span><br><span class="line">      &#125;</span><br><span class="line">    &#125;</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <p>我们的代码的测试覆盖率的要求是惊人的100%🤣 这在我之前的公司是绝对无法实现的。不仅仅是 unit test， 我们还有 integration 测试覆盖，还有用到  cypress 又一次覆盖了所有的 endpoint。不就是改改代码么/升级依赖啥的么，随便玩。</p>
 <h2 id="于是"><a href="#于是" class="headerlink" title="于是"></a>于是</h2><p>梭哈！👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻👨🏻‍💻升级，跑测试！</p>
-<p>几分钟后：<img src="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/do0JqI.png" alt="do0JqI"></p>
+<p>几分钟后：<img src="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/do0JqI.png" alt="do0JqI"></p>
 <p>行嘛，不出我所料（才怪🙃）果然挂了。</p>
 <p>打开log一看， emmm… </p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of <span class="built_in">type</span> `java.time.LocalDate` from String <span class="string">"2020-01-15"</span>: Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text <span class="string">'2020-01-15'</span> could not be parsed: Unable to obtain LocalDate from TemporalAccessor: &#123;YearOfEra=2020, MonthOfYear=1, DayOfMonth=15&#125;,ISO of <span class="built_in">type</span> java.time.format.Parsed; nested exception is com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of <span class="built_in">type</span> `java.time.LocalDate` from String <span class="string">"2020-01-15"</span>: Failed to deserialize java.time.LocalDate: (java.time.format.DateTimeParseException) Text <span class="string">'2020-01-15'</span> could not be parsed: Unable to obtain LocalDate from TemporalAccessor: &#123;YearOfEra=2020, MonthOfYear=1, DayOfMonth=15&#125;,ISO of <span class="built_in">type</span> java.time.format.Parsed</span><br><span class="line"> at [Source: (PushbackInputStream); line: 2, column: 18] (through reference chain: com.example.demo.Demo[<span class="string">"localDate"</span>])]</span><br></pre></td></tr></table></figure>
@@ -490,7 +490,7 @@
 <p>果然，升级了 Jackson 到<code>2.11.4</code>。 对比了一下发现我原先的 SpringBoot 中的 Jackson 版本是<code>2.10.2</code>， emm… 一般这种稍大的版本升级都伴随着很多 magic 的事情。总之接下来要去 Jackson 的升级日志里面看一下，有什么升级跨越了<code>2.10.*</code>和<code>2.11.*</code>这两个版本。</p>
 <h4 id="Jackson-2-11升级日志"><a href="#Jackson-2-11升级日志" class="headerlink" title="Jackson 2.11升级日志"></a>Jackson 2.11升级日志</h4><p>这个升级日志在它 GitHub 的 wiki 里，点击<a href="https://github.com/FasterXML/jackson/wiki/Jackson-Release-2.11" target="_blank" rel="noopener">Jackson Release 2.11</a>。 </p>
 <p>阅读一下，第一遍竟然没有找到任何线索，阿西吧🥵，通篇与<code>@JsonFormat</code>的字眼几乎没有。但是，功夫不负有心人，由于我这个错误是时间类型的转换问题，在如下所示的更改中，发现对于<code>Java 8date/time</code>有相关升级：</p>
-<p><img src="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/xCxT2g.png" alt="xCxT2g"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/xCxT2g.png" alt="xCxT2g"></p>
 <blockquote>
 <ul>
 <li><a href="https://github.com/FasterXML/jackson-modules-java8/issues/148" target="_blank" rel="noopener">#148</a>: Allow strict <code>LocalDate</code> parsing</li>
@@ -682,7 +682,7 @@
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
             
-              <img class="site-author-image" itemprop="image" src="https://cdn.jsdelivr.net/gh/Fatezhang/FigureCloud@master/uPic/heartbeat.gif" alt="陈年风楼">
+              <img class="site-author-image" itemprop="image" src="https://cdn.jsdelivr.net/gh/recklyss/FigureCloud@master/uPic/heartbeat.gif" alt="陈年风楼">
             
               <p class="site-author-name" itemprop="name">陈年风楼</p>
               <p class="site-description motion-element" itemprop="description">真正的大师永远都怀着一颗学徒的心！</p>
