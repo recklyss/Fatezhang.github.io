@@ -9,5 +9,5 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: http://zhangjiaheng.cn/sitemap.xml
-Sitemap: http://zhangjiaheng.cn/baidusitemap.xml
+Sitemap: http://archived.recklesscoder.com/sitemap.xml
+Sitemap: http://archived.recklesscoder.com/baidusitemap.xml

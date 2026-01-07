@@ -5,9 +5,9 @@
   <subtitle>当你看到了一座山，一定会想再看看山的后面是什么！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://zhangjiaheng.cn/"/>
+  <link href="http://archived.recklesscoder.com/"/>
   <updated>2023-04-13T18:14:33.806Z</updated>
-  <id>http://zhangjiaheng.cn/</id>
+  <id>http://archived.recklesscoder.com/</id>
   
   <author>
     <name>陈年风楼</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>最后一篇这个站点的博客，写点什么好？</title>
-    <link href="http://zhangjiaheng.cn/blog/20230412/%E6%9C%80%E5%90%8E%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%86%99%E7%82%B9%E4%BB%80%E4%B9%88%E5%A5%BD%EF%BC%9F/"/>
-    <id>http://zhangjiaheng.cn/blog/20230412/最后一篇博客，写点什么好？/</id>
+    <link href="http://archived.recklesscoder.com/blog/20230412/%E6%9C%80%E5%90%8E%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%86%99%E7%82%B9%E4%BB%80%E4%B9%88%E5%A5%BD%EF%BC%9F/"/>
+    <id>http://archived.recklesscoder.com/blog/20230412/最后一篇博客，写点什么好？/</id>
     <published>2023-04-12T07:13:19.000Z</published>
     <updated>2023-04-13T18:14:33.806Z</updated>
     
@@ -35,14 +35,14 @@
     </summary>
     
     
-      <category term="开发日记，程序人生" scheme="http://zhangjiaheng.cn/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E8%AE%B0%EF%BC%8C%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+      <category term="开发日记，程序人生" scheme="http://archived.recklesscoder.com/tags/%E5%BC%80%E5%8F%91%E6%97%A5%E8%AE%B0%EF%BC%8C%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
     
   </entry>
   
   <entry>
     <title>编写自定义的 SpringBoot Starter 实现自动装配</title>
-    <link href="http://zhangjiaheng.cn/blog/20210730/Create-your-custom-spring-boot-starter/"/>
-    <id>http://zhangjiaheng.cn/blog/20210730/Create-your-custom-spring-boot-starter/</id>
+    <link href="http://archived.recklesscoder.com/blog/20210730/Create-your-custom-spring-boot-starter/"/>
+    <id>http://archived.recklesscoder.com/blog/20210730/Create-your-custom-spring-boot-starter/</id>
     <published>2021-07-30T09:47:15.000Z</published>
     <updated>2022-11-29T14:56:28.785Z</updated>
     
@@ -54,19 +54,19 @@
     
     </summary>
     
-      <category term="SpringBoot" scheme="http://zhangjiaheng.cn/categories/SpringBoot/"/>
+      <category term="SpringBoot" scheme="http://archived.recklesscoder.com/categories/SpringBoot/"/>
     
     
-      <category term="SpringBoot" scheme="http://zhangjiaheng.cn/tags/SpringBoot/"/>
+      <category term="SpringBoot" scheme="http://archived.recklesscoder.com/tags/SpringBoot/"/>
     
-      <category term="SpringBoot starter" scheme="http://zhangjiaheng.cn/tags/SpringBoot-starter/"/>
+      <category term="SpringBoot starter" scheme="http://archived.recklesscoder.com/tags/SpringBoot-starter/"/>
     
   </entry>
   
   <entry>
     <title>我的无奈的来源，正是他</title>
-    <link href="http://zhangjiaheng.cn/blog/20210726/%E6%88%91%E7%9A%84%E6%97%A0%E5%A5%88%E7%9A%84%E6%9D%A5%E6%BA%90%EF%BC%8C%E6%AD%A3%E6%98%AF%E4%BB%96/"/>
-    <id>http://zhangjiaheng.cn/blog/20210726/我的无奈的来源，正是他/</id>
+    <link href="http://archived.recklesscoder.com/blog/20210726/%E6%88%91%E7%9A%84%E6%97%A0%E5%A5%88%E7%9A%84%E6%9D%A5%E6%BA%90%EF%BC%8C%E6%AD%A3%E6%98%AF%E4%BB%96/"/>
+    <id>http://archived.recklesscoder.com/blog/20210726/我的无奈的来源，正是他/</id>
     <published>2021-07-26T13:06:19.000Z</published>
     <updated>2022-11-29T14:56:28.853Z</updated>
     
@@ -83,17 +83,17 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://zhangjiaheng.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://archived.recklesscoder.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="随笔" scheme="http://zhangjiaheng.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://archived.recklesscoder.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>写博客有什么用？</title>
-    <link href="http://zhangjiaheng.cn/blog/20210721/%E5%86%99%E5%8D%9A%E5%AE%A2%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%EF%BC%9F/"/>
-    <id>http://zhangjiaheng.cn/blog/20210721/写博客有什么用？/</id>
+    <link href="http://archived.recklesscoder.com/blog/20210721/%E5%86%99%E5%8D%9A%E5%AE%A2%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%EF%BC%9F/"/>
+    <id>http://archived.recklesscoder.com/blog/20210721/写博客有什么用？/</id>
     <published>2021-07-21T16:11:21.000Z</published>
     <updated>2022-11-29T14:56:28.824Z</updated>
     
@@ -114,17 +114,17 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://zhangjiaheng.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://archived.recklesscoder.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="随笔" scheme="http://zhangjiaheng.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://archived.recklesscoder.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>为什么并不是所有人都有自由意志？</title>
-    <link href="http://zhangjiaheng.cn/blog/20210620/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E6%9C%89%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%EF%BC%9F/"/>
-    <id>http://zhangjiaheng.cn/blog/20210620/为什么并不是所有人都有自由意志？/</id>
+    <link href="http://archived.recklesscoder.com/blog/20210620/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E6%9C%89%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%EF%BC%9F/"/>
+    <id>http://archived.recklesscoder.com/blog/20210620/为什么并不是所有人都有自由意志？/</id>
     <published>2021-06-20T07:41:15.000Z</published>
     <updated>2022-11-29T14:56:28.814Z</updated>
     
@@ -142,17 +142,17 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://zhangjiaheng.cn/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://archived.recklesscoder.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="随笔" scheme="http://zhangjiaheng.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://archived.recklesscoder.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>由 SpringBoot 升级到 2.4.2 引发的 Jackson 的 JsonFormat 问题排查</title>
-    <link href="http://zhangjiaheng.cn/blog/20210120/spring-boot-to-2-4-2/"/>
-    <id>http://zhangjiaheng.cn/blog/20210120/spring-boot-to-2-4-2/</id>
+    <link href="http://archived.recklesscoder.com/blog/20210120/spring-boot-to-2-4-2/"/>
+    <id>http://archived.recklesscoder.com/blog/20210120/spring-boot-to-2-4-2/</id>
     <published>2021-01-20T12:37:43.000Z</published>
     <updated>2022-11-29T14:56:28.800Z</updated>
     
@@ -164,25 +164,25 @@
     
     </summary>
     
-      <category term="springboot" scheme="http://zhangjiaheng.cn/categories/springboot/"/>
+      <category term="springboot" scheme="http://archived.recklesscoder.com/categories/springboot/"/>
     
     
-      <category term="springboot" scheme="http://zhangjiaheng.cn/tags/springboot/"/>
+      <category term="springboot" scheme="http://archived.recklesscoder.com/tags/springboot/"/>
     
-      <category term="DateTimeFormatter" scheme="http://zhangjiaheng.cn/tags/DateTimeFormatter/"/>
+      <category term="DateTimeFormatter" scheme="http://archived.recklesscoder.com/tags/DateTimeFormatter/"/>
     
-      <category term="jackson" scheme="http://zhangjiaheng.cn/tags/jackson/"/>
+      <category term="jackson" scheme="http://archived.recklesscoder.com/tags/jackson/"/>
     
-      <category term="lenient" scheme="http://zhangjiaheng.cn/tags/lenient/"/>
+      <category term="lenient" scheme="http://archived.recklesscoder.com/tags/lenient/"/>
     
-      <category term="JsonFormat" scheme="http://zhangjiaheng.cn/tags/JsonFormat/"/>
+      <category term="JsonFormat" scheme="http://archived.recklesscoder.com/tags/JsonFormat/"/>
     
   </entry>
   
   <entry>
     <title>使用 UPic &amp; GitHub 做个自己的图床</title>
-    <link href="http://zhangjiaheng.cn/blog/20210113/%E4%BD%BF%E7%94%A8-UPic-GitHub-%E5%81%9A%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A/"/>
-    <id>http://zhangjiaheng.cn/blog/20210113/使用-UPic-GitHub-做个自己的图床/</id>
+    <link href="http://archived.recklesscoder.com/blog/20210113/%E4%BD%BF%E7%94%A8-UPic-GitHub-%E5%81%9A%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A/"/>
+    <id>http://archived.recklesscoder.com/blog/20210113/使用-UPic-GitHub-做个自己的图床/</id>
     <published>2021-01-13T14:42:28.000Z</published>
     <updated>2022-11-29T14:56:28.818Z</updated>
     
@@ -198,17 +198,17 @@
     
     </summary>
     
-      <category term="开发工具" scheme="http://zhangjiaheng.cn/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+      <category term="开发工具" scheme="http://archived.recklesscoder.com/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="开发工具" scheme="http://zhangjiaheng.cn/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+      <category term="开发工具" scheme="http://archived.recklesscoder.com/tags/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
   <entry>
     <title>使用Localstack 搭建 AWS 本地开发环境</title>
-    <link href="http://zhangjiaheng.cn/blog/20201227/%E4%BD%BF%E7%94%A8localstack-%E6%90%AD%E5%BB%BA-AWS-%E6%9C%AC%E5%9C%B0%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
-    <id>http://zhangjiaheng.cn/blog/20201227/使用localstack-搭建-AWS-本地开发环境/</id>
+    <link href="http://archived.recklesscoder.com/blog/20201227/%E4%BD%BF%E7%94%A8localstack-%E6%90%AD%E5%BB%BA-AWS-%E6%9C%AC%E5%9C%B0%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <id>http://archived.recklesscoder.com/blog/20201227/使用localstack-搭建-AWS-本地开发环境/</id>
     <published>2020-12-27T07:45:59.000Z</published>
     <updated>2022-11-29T14:56:28.819Z</updated>
     
@@ -227,19 +227,19 @@
     
     </summary>
     
-      <category term="AWS" scheme="http://zhangjiaheng.cn/categories/AWS/"/>
+      <category term="AWS" scheme="http://archived.recklesscoder.com/categories/AWS/"/>
     
     
-      <category term="AWS" scheme="http://zhangjiaheng.cn/tags/AWS/"/>
+      <category term="AWS" scheme="http://archived.recklesscoder.com/tags/AWS/"/>
     
-      <category term="localstack" scheme="http://zhangjiaheng.cn/tags/localstack/"/>
+      <category term="localstack" scheme="http://archived.recklesscoder.com/tags/localstack/"/>
     
   </entry>
   
   <entry>
     <title>让一切被中断的重新启动</title>
-    <link href="http://zhangjiaheng.cn/blog/20200705/Make-everything-interrupted-reboot/"/>
-    <id>http://zhangjiaheng.cn/blog/20200705/Make-everything-interrupted-reboot/</id>
+    <link href="http://archived.recklesscoder.com/blog/20200705/Make-everything-interrupted-reboot/"/>
+    <id>http://archived.recklesscoder.com/blog/20200705/Make-everything-interrupted-reboot/</id>
     <published>2020-07-05T08:35:33.000Z</published>
     <updated>2022-11-29T14:56:28.794Z</updated>
     
@@ -251,17 +251,17 @@
     
     </summary>
     
-      <category term="程序人生" scheme="http://zhangjiaheng.cn/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+      <category term="程序人生" scheme="http://archived.recklesscoder.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
     
     
-      <category term="程序人生" scheme="http://zhangjiaheng.cn/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+      <category term="程序人生" scheme="http://archived.recklesscoder.com/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
     
   </entry>
   
   <entry>
     <title>Java 并发编程的一些总结</title>
-    <link href="http://zhangjiaheng.cn/blog/20200129/Java-%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/"/>
-    <id>http://zhangjiaheng.cn/blog/20200129/Java-并发编程的一些总结/</id>
+    <link href="http://archived.recklesscoder.com/blog/20200129/Java-%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/"/>
+    <id>http://archived.recklesscoder.com/blog/20200129/Java-并发编程的一些总结/</id>
     <published>2020-01-29T15:06:28.000Z</published>
     <updated>2022-11-29T14:56:28.786Z</updated>
     
@@ -279,21 +279,21 @@
     
     </summary>
     
-      <category term="Java基础" scheme="http://zhangjiaheng.cn/categories/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://archived.recklesscoder.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
     
-      <category term="并发编程" scheme="http://zhangjiaheng.cn/categories/Java%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+      <category term="并发编程" scheme="http://archived.recklesscoder.com/categories/Java%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
     
     
-      <category term="Java基础" scheme="http://zhangjiaheng.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://archived.recklesscoder.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
-      <category term="并发编程" scheme="http://zhangjiaheng.cn/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+      <category term="并发编程" scheme="http://archived.recklesscoder.com/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>How to Use Junit5 to Test You Java Application Elegantly</title>
-    <link href="http://zhangjiaheng.cn/blog/20200115/How-to-use-Junit5-to-test-you-java-application-elegantly/"/>
-    <id>http://zhangjiaheng.cn/blog/20200115/How-to-use-Junit5-to-test-you-java-application-elegantly/</id>
+    <link href="http://archived.recklesscoder.com/blog/20200115/How-to-use-Junit5-to-test-you-java-application-elegantly/"/>
+    <id>http://archived.recklesscoder.com/blog/20200115/How-to-use-Junit5-to-test-you-java-application-elegantly/</id>
     <published>2020-01-15T07:25:14.000Z</published>
     <updated>2022-11-29T14:56:28.785Z</updated>
     
@@ -307,25 +307,25 @@
     
     </summary>
     
-      <category term="Junit5" scheme="http://zhangjiaheng.cn/categories/Junit5/"/>
+      <category term="Junit5" scheme="http://archived.recklesscoder.com/categories/Junit5/"/>
     
-      <category term="Unit Test" scheme="http://zhangjiaheng.cn/categories/Junit5/Unit-Test/"/>
+      <category term="Unit Test" scheme="http://archived.recklesscoder.com/categories/Junit5/Unit-Test/"/>
     
     
-      <category term="Junit5" scheme="http://zhangjiaheng.cn/tags/Junit5/"/>
+      <category term="Junit5" scheme="http://archived.recklesscoder.com/tags/Junit5/"/>
     
-      <category term="Java 基础" scheme="http://zhangjiaheng.cn/tags/Java-%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java 基础" scheme="http://archived.recklesscoder.com/tags/Java-%E5%9F%BA%E7%A1%80/"/>
     
-      <category term="单元测试" scheme="http://zhangjiaheng.cn/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/"/>
+      <category term="单元测试" scheme="http://archived.recklesscoder.com/tags/%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/"/>
     
-      <category term="unit test" scheme="http://zhangjiaheng.cn/tags/unit-test/"/>
+      <category term="unit test" scheme="http://archived.recklesscoder.com/tags/unit-test/"/>
     
   </entry>
   
   <entry>
     <title> 解决@ResuestBody中的 JSON 自动转化非 Boolean 为 Boolean 值</title>
-    <link href="http://zhangjiaheng.cn/blog/20191217/%E8%A7%A3%E5%86%B3-ResuestBody%E4%B8%AD%E7%9A%84-JSON-%E8%87%AA%E5%8A%A8%E8%BD%AC%E5%8C%96%E9%9D%9E-boolean-%E4%B8%BA-boolean-%E5%80%BC/"/>
-    <id>http://zhangjiaheng.cn/blog/20191217/解决-ResuestBody中的-JSON-自动转化非-boolean-为-boolean-值/</id>
+    <link href="http://archived.recklesscoder.com/blog/20191217/%E8%A7%A3%E5%86%B3-ResuestBody%E4%B8%AD%E7%9A%84-JSON-%E8%87%AA%E5%8A%A8%E8%BD%AC%E5%8C%96%E9%9D%9E-boolean-%E4%B8%BA-boolean-%E5%80%BC/"/>
+    <id>http://archived.recklesscoder.com/blog/20191217/解决-ResuestBody中的-JSON-自动转化非-boolean-为-boolean-值/</id>
     <published>2019-12-17T04:39:58.000Z</published>
     <updated>2022-11-29T14:56:28.864Z</updated>
     
@@ -337,27 +337,27 @@
     
     </summary>
     
-      <category term="SpringBoot" scheme="http://zhangjiaheng.cn/categories/SpringBoot/"/>
+      <category term="SpringBoot" scheme="http://archived.recklesscoder.com/categories/SpringBoot/"/>
     
     
-      <category term="SpringBoot" scheme="http://zhangjiaheng.cn/tags/SpringBoot/"/>
+      <category term="SpringBoot" scheme="http://archived.recklesscoder.com/tags/SpringBoot/"/>
     
-      <category term="Spring" scheme="http://zhangjiaheng.cn/tags/Spring/"/>
+      <category term="Spring" scheme="http://archived.recklesscoder.com/tags/Spring/"/>
     
-      <category term="SpringMVC" scheme="http://zhangjiaheng.cn/tags/SpringMVC/"/>
+      <category term="SpringMVC" scheme="http://archived.recklesscoder.com/tags/SpringMVC/"/>
     
-      <category term="JSON" scheme="http://zhangjiaheng.cn/tags/JSON/"/>
+      <category term="JSON" scheme="http://archived.recklesscoder.com/tags/JSON/"/>
     
-      <category term="converter" scheme="http://zhangjiaheng.cn/tags/converter/"/>
+      <category term="converter" scheme="http://archived.recklesscoder.com/tags/converter/"/>
     
-      <category term="RequestBody" scheme="http://zhangjiaheng.cn/tags/RequestBody/"/>
+      <category term="RequestBody" scheme="http://archived.recklesscoder.com/tags/RequestBody/"/>
     
   </entry>
   
   <entry>
     <title>如何在 SpringCloud 微服务项目中一键部署 Docker 启动</title>
-    <link href="http://zhangjiaheng.cn/blog/20191211/%E5%A6%82%E4%BD%95%E5%9C%A8-SpringCloud-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2-docker-%E5%90%AF%E5%8A%A8/"/>
-    <id>http://zhangjiaheng.cn/blog/20191211/如何在-SpringCloud-微服务项目中一键部署-docker-启动/</id>
+    <link href="http://archived.recklesscoder.com/blog/20191211/%E5%A6%82%E4%BD%95%E5%9C%A8-SpringCloud-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2-docker-%E5%90%AF%E5%8A%A8/"/>
+    <id>http://archived.recklesscoder.com/blog/20191211/如何在-SpringCloud-微服务项目中一键部署-docker-启动/</id>
     <published>2019-12-11T10:26:46.000Z</published>
     <updated>2022-11-29T14:56:28.824Z</updated>
     
@@ -369,25 +369,25 @@
     
     </summary>
     
-      <category term="SpringCloud" scheme="http://zhangjiaheng.cn/categories/SpringCloud/"/>
+      <category term="SpringCloud" scheme="http://archived.recklesscoder.com/categories/SpringCloud/"/>
     
     
-      <category term="SpringCloud" scheme="http://zhangjiaheng.cn/tags/SpringCloud/"/>
+      <category term="SpringCloud" scheme="http://archived.recklesscoder.com/tags/SpringCloud/"/>
     
-      <category term="微服务" scheme="http://zhangjiaheng.cn/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="http://archived.recklesscoder.com/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
-      <category term="springboot" scheme="http://zhangjiaheng.cn/tags/springboot/"/>
+      <category term="springboot" scheme="http://archived.recklesscoder.com/tags/springboot/"/>
     
-      <category term="spring" scheme="http://zhangjiaheng.cn/tags/spring/"/>
+      <category term="spring" scheme="http://archived.recklesscoder.com/tags/spring/"/>
     
-      <category term="docker" scheme="http://zhangjiaheng.cn/tags/docker/"/>
+      <category term="docker" scheme="http://archived.recklesscoder.com/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>Write a Blog in English</title>
-    <link href="http://zhangjiaheng.cn/blog/20191105/Write-a-blog-in-English/"/>
-    <id>http://zhangjiaheng.cn/blog/20191105/Write-a-blog-in-English/</id>
+    <link href="http://archived.recklesscoder.com/blog/20191105/Write-a-blog-in-English/"/>
+    <id>http://archived.recklesscoder.com/blog/20191105/Write-a-blog-in-English/</id>
     <published>2019-11-05T14:55:46.000Z</published>
     <updated>2022-11-29T14:56:28.799Z</updated>
     
@@ -399,21 +399,21 @@
     
     </summary>
     
-      <category term="English study" scheme="http://zhangjiaheng.cn/categories/English-study/"/>
+      <category term="English study" scheme="http://archived.recklesscoder.com/categories/English-study/"/>
     
     
-      <category term="程序人生" scheme="http://zhangjiaheng.cn/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+      <category term="程序人生" scheme="http://archived.recklesscoder.com/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
     
-      <category term="English study" scheme="http://zhangjiaheng.cn/tags/English-study/"/>
+      <category term="English study" scheme="http://archived.recklesscoder.com/tags/English-study/"/>
     
-      <category term="English blogs" scheme="http://zhangjiaheng.cn/tags/English-blogs/"/>
+      <category term="English blogs" scheme="http://archived.recklesscoder.com/tags/English-blogs/"/>
     
   </entry>
   
   <entry>
     <title>Scaffold-Cloud —— SpringCloud微服务架构实践</title>
-    <link href="http://zhangjiaheng.cn/blog/20191025/SpringCloud%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/"/>
-    <id>http://zhangjiaheng.cn/blog/20191025/SpringCloud微服务架构实践/</id>
+    <link href="http://archived.recklesscoder.com/blog/20191025/SpringCloud%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E5%AE%9E%E8%B7%B5/"/>
+    <id>http://archived.recklesscoder.com/blog/20191025/SpringCloud微服务架构实践/</id>
     <published>2019-10-25T06:42:24.000Z</published>
     <updated>2022-11-29T14:56:28.795Z</updated>
     
@@ -428,23 +428,23 @@
     
     </summary>
     
-      <category term="SpringCloud" scheme="http://zhangjiaheng.cn/categories/SpringCloud/"/>
+      <category term="SpringCloud" scheme="http://archived.recklesscoder.com/categories/SpringCloud/"/>
     
     
-      <category term="SpringBoot" scheme="http://zhangjiaheng.cn/tags/SpringBoot/"/>
+      <category term="SpringBoot" scheme="http://archived.recklesscoder.com/tags/SpringBoot/"/>
     
-      <category term="SpringCloud" scheme="http://zhangjiaheng.cn/tags/SpringCloud/"/>
+      <category term="SpringCloud" scheme="http://archived.recklesscoder.com/tags/SpringCloud/"/>
     
-      <category term="微服务" scheme="http://zhangjiaheng.cn/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="http://archived.recklesscoder.com/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
-      <category term="分布式" scheme="http://zhangjiaheng.cn/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+      <category term="分布式" scheme="http://archived.recklesscoder.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>The Second Day on the Job in ThoughtWorks</title>
-    <link href="http://zhangjiaheng.cn/blog/20191022/The-second-day-on-the-job-in-ThoughtWorks/"/>
-    <id>http://zhangjiaheng.cn/blog/20191022/The-second-day-on-the-job-in-ThoughtWorks/</id>
+    <link href="http://archived.recklesscoder.com/blog/20191022/The-second-day-on-the-job-in-ThoughtWorks/"/>
+    <id>http://archived.recklesscoder.com/blog/20191022/The-second-day-on-the-job-in-ThoughtWorks/</id>
     <published>2019-10-22T13:41:42.000Z</published>
     <updated>2022-11-29T14:56:28.797Z</updated>
     
@@ -456,17 +456,17 @@
     
     </summary>
     
-      <category term="程序人生" scheme="http://zhangjiaheng.cn/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+      <category term="程序人生" scheme="http://archived.recklesscoder.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
     
     
-      <category term="程序人生" scheme="http://zhangjiaheng.cn/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+      <category term="程序人生" scheme="http://archived.recklesscoder.com/tags/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
     
   </entry>
   
   <entry>
     <title>我项目中使用的分布式事务：LCN</title>
-    <link href="http://zhangjiaheng.cn/blog/20191020/%E6%88%91%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%EF%BC%9ALCN/"/>
-    <id>http://zhangjiaheng.cn/blog/20191020/我项目中使用的分布式事务：LCN/</id>
+    <link href="http://archived.recklesscoder.com/blog/20191020/%E6%88%91%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%EF%BC%9ALCN/"/>
+    <id>http://archived.recklesscoder.com/blog/20191020/我项目中使用的分布式事务：LCN/</id>
     <published>2019-10-20T04:14:44.000Z</published>
     <updated>2022-11-29T14:56:28.854Z</updated>
     
@@ -479,25 +479,25 @@
     
     </summary>
     
-      <category term="分布式" scheme="http://zhangjiaheng.cn/categories/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+      <category term="分布式" scheme="http://archived.recklesscoder.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
-      <category term="分布式事务" scheme="http://zhangjiaheng.cn/categories/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/"/>
+      <category term="分布式事务" scheme="http://archived.recklesscoder.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/"/>
     
     
-      <category term="微服务" scheme="http://zhangjiaheng.cn/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="http://archived.recklesscoder.com/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
-      <category term="分布式" scheme="http://zhangjiaheng.cn/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+      <category term="分布式" scheme="http://archived.recklesscoder.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
-      <category term="数据库" scheme="http://zhangjiaheng.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+      <category term="数据库" scheme="http://archived.recklesscoder.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-      <category term="分布式事务" scheme="http://zhangjiaheng.cn/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/"/>
+      <category term="分布式事务" scheme="http://archived.recklesscoder.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1/"/>
     
   </entry>
   
   <entry>
     <title>其实我不太想离开这里</title>
-    <link href="http://zhangjiaheng.cn/blog/20190909/%E5%85%B6%E5%AE%9E%E6%88%91%E4%B8%8D%E6%83%B3%E7%A6%BB%E5%BC%80%E8%BF%99%E9%87%8C/"/>
-    <id>http://zhangjiaheng.cn/blog/20190909/其实我不想离开这里/</id>
+    <link href="http://archived.recklesscoder.com/blog/20190909/%E5%85%B6%E5%AE%9E%E6%88%91%E4%B8%8D%E6%83%B3%E7%A6%BB%E5%BC%80%E8%BF%99%E9%87%8C/"/>
+    <id>http://archived.recklesscoder.com/blog/20190909/其实我不想离开这里/</id>
     <published>2019-09-09T15:01:04.000Z</published>
     <updated>2022-11-29T14:56:28.820Z</updated>
     
@@ -509,17 +509,17 @@
     
     </summary>
     
-      <category term="程序人生" scheme="http://zhangjiaheng.cn/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+      <category term="程序人生" scheme="http://archived.recklesscoder.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
     
     
-      <category term="随笔" scheme="http://zhangjiaheng.cn/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://archived.recklesscoder.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>并发编程学习(七)：Fork/Join框架原理及demo</title>
-    <link href="http://zhangjiaheng.cn/blog/20190814/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0-%E4%B8%83-%EF%BC%9AFork-Join%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E5%8F%8Ademo/"/>
-    <id>http://zhangjiaheng.cn/blog/20190814/并发编程学习-七-：Fork-Join框架原理及demo/</id>
+    <link href="http://archived.recklesscoder.com/blog/20190814/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0-%E4%B8%83-%EF%BC%9AFork-Join%E6%A1%86%E6%9E%B6%E5%8E%9F%E7%90%86%E5%8F%8Ademo/"/>
+    <id>http://archived.recklesscoder.com/blog/20190814/并发编程学习-七-：Fork-Join框架原理及demo/</id>
     <published>2019-08-14T09:48:56.000Z</published>
     <updated>2022-11-29T14:56:28.842Z</updated>
     
@@ -531,31 +531,31 @@
     
     </summary>
     
-      <category term="Java基础" scheme="http://zhangjiaheng.cn/categories/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://archived.recklesscoder.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
     
-      <category term="并发编程" scheme="http://zhangjiaheng.cn/categories/Java%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+      <category term="并发编程" scheme="http://archived.recklesscoder.com/categories/Java%E5%9F%BA%E7%A1%80/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
     
     
-      <category term="Java基础" scheme="http://zhangjiaheng.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://archived.recklesscoder.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
-      <category term="并发编程" scheme="http://zhangjiaheng.cn/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+      <category term="并发编程" scheme="http://archived.recklesscoder.com/tags/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
     
-      <category term="Fork/Join框架" scheme="http://zhangjiaheng.cn/tags/Fork-Join%E6%A1%86%E6%9E%B6/"/>
+      <category term="Fork/Join框架" scheme="http://archived.recklesscoder.com/tags/Fork-Join%E6%A1%86%E6%9E%B6/"/>
     
-      <category term="ForkJoinPool" scheme="http://zhangjiaheng.cn/tags/ForkJoinPool/"/>
+      <category term="ForkJoinPool" scheme="http://archived.recklesscoder.com/tags/ForkJoinPool/"/>
     
-      <category term="线程池" scheme="http://zhangjiaheng.cn/tags/%E7%BA%BF%E7%A8%8B%E6%B1%A0/"/>
+      <category term="线程池" scheme="http://archived.recklesscoder.com/tags/%E7%BA%BF%E7%A8%8B%E6%B1%A0/"/>
     
   </entry>
   
   <entry>
     <title>【设计模式】设计模式基本思想以及23种模式总结整理</title>
-    <link href="http://zhangjiaheng.cn/blog/20190812/%E3%80%90%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%9D%E6%83%B3%E4%BB%A5%E5%8F%8A23%E7%A7%8D%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93%E6%95%B4%E7%90%86/"/>
-    <id>http://zhangjiaheng.cn/blog/20190812/【设计模式】设计模式基本思想以及23种模式总结整理/</id>
+    <link href="http://archived.recklesscoder.com/blog/20190812/%E3%80%90%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%9D%E6%83%B3%E4%BB%A5%E5%8F%8A23%E7%A7%8D%E6%A8%A1%E5%BC%8F%E6%80%BB%E7%BB%93%E6%95%B4%E7%90%86/"/>
+    <id>http://archived.recklesscoder.com/blog/20190812/【设计模式】设计模式基本思想以及23种模式总结整理/</id>
     <published>2019-08-12T04:47:54.000Z</published>
     <updated>2022-11-29T14:56:28.805Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/blog/20190812/【设计模式】设计模式基本思想以及23种模式总结整理/bz.png" alt="封面"></p><a id="more"></a><h3 id="设计模式主要思想"><a href="#设计模式主要思想" class="headerlink" title="设计模式主要思想"></a>设计模式主要思想</h3><p>设计模式是在长期应用开发过程中，众多开发者总结归纳出来的程序架构与设计思想。是经过实践证明的，可在实际背景下使用的一系列程序设计方案。设计模式产生的根本目的就是为了解决开发过程中重复的代码编写，以及让程序更易扩展复用。</p><h4 id="设计模式的原则"><a href="#设计模式的原则" class="headerlink" title="设计模式的原则"></a>设计模式的原则</h4><ul><li>单一职责：每个类都应该实现单一的功能，否则应该将类进行拆分</li><li>里氏替换：即继承复用/合成复用。尽量使用合成/聚合的方式而不是继承。任何父类出现的地方，子类都可以出现。派生类可以在基类的基础上扩展自己的功能实现。是对“开闭原则”的一个补充。在里氏替换原则中，尽量不要对父类进行重载或者重写，因为父类代表一个定义好的结构，通过规范好的接口与外界进行交互，子类不应该随意破坏它，而是对其进行扩展。</li><li>依赖倒置：“开闭原则”的基础。即面向接口编程。依赖于抽象而不是依赖于具体的实现，编程时遇到具体的类时，不与具体的类交互，而与抽象接口进行交互。便于增加新的具体类的时候代码可以复用。</li><li>接口隔离：每个接口不应该存在子类用不到却必须实现的方法，否则就应该将接口拆分，将职责单一化。</li><li>最少知道：即迪米特法则。一个类对于自己依赖的类知道的越少越好，无论被依赖的类多么复杂，都应该将逻辑封装在方法内部，通过一个共有的方法提供给依赖类使用，这样当被依赖类发生改变的时候，才会尽可能少的影响依赖类。</li></ul><h3 id="设计模式的分类"><a href="#设计模式的分类" class="headerlink" title="设计模式的分类"></a>设计模式的分类</h3><blockquote><p>点击对应链接跳转到该设计模式的详细整理与代码示例</p></blockquote><table><thead><tr><th>范围</th><th>创建型模式</th><th>结构型模式</th><th>行为型模式</th></tr></thead><tbody><tr><td>对象创建</td><td><a href="http://zhangjiaheng.cn/blog/20190607/%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E4%B8%80%E4%B8%AA%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E7%9A%84%E5%8D%95%E4%BE%8B/">Singleton（单例模式）</a><br>Prototype(原型模式)<br>Factory Method（工厂方法模式）<br>Abstract Factory（抽象工厂模式）<br>Builder（建造者模式）</td><td></td><td></td></tr><tr><td>接口适配</td><td></td><td>Adapter（适配器模式）<br>Bridge（桥接模式）<br>Facade（外观模式）</td><td></td></tr><tr><td>对象解耦</td><td></td><td></td><td>Mediator（中介者模式）<br>Observer（观察者模式）</td></tr><tr><td>抽象集合</td><td></td><td>Composite（组合模式）</td><td>Iterator（迭代器模式）</td></tr><tr><td>行为扩展</td><td></td><td>Decorator（装饰模式）</td><td>Visitor（访问者模式）<br>Chain of Responsibility（职责链）</td></tr><tr><td>算法封装</td><td></td><td></td><td><a href="http://zhangjiaheng.cn/blog/20190707/%E3%80%90%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/">Template（模板方法模式）</a><br>Strategy（策略模式）</td></tr><tr><td>性能与对象访问</td><td></td><td>Flyweight（享元模式）<br>Proxy（代理模式）</td><td></td></tr><tr><td>对象状态</td><td></td><td></td><td>Memento（备忘录模式）<br>State（状态模式）</td></tr><tr><td>其他</td><td></td><td></td><td>Interpreter（解释器模式）</td></tr></tbody></table><h4 id="总结下设计模式的归类"><a href="#总结下设计模式的归类" class="headerlink" title="总结下设计模式的归类"></a>总结下设计模式的归类</h4><p><img src="/blog/20190812/【设计模式】设计模式基本思想以及23种模式总结整理/sjmo.png" alt="设计模式分类 - 幕布"></p><h4 id="创建型设计模式"><a href="#创建型设计模式" class="headerlink" title="创建型设计模式"></a>创建型设计模式</h4><p>创建型设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，使调用者无需new对象，在程序中针对给定业务场景去调用特定的对象创建方法，使程序更加灵活。</p><h4 id="行为型设计模式"><a href="#行为型设计模式" class="headerlink" title="行为型设计模式"></a>行为型设计模式</h4><p>行为型设计模式主要关注对象之间的通信。</p><h4 id="结构型设计模式"><a href="#结构型设计模式" class="headerlink" title="结构型设计模式"></a>结构型设计模式</h4><p>结构型设计模式关注类和对象的组合，继承的概念被用来组合接口和定义组合对象获得新功能的方式。</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+    <content type="html"><![CDATA[<p><img src="/blog/20190812/【设计模式】设计模式基本思想以及23种模式总结整理/bz.png" alt="封面"></p><a id="more"></a><h3 id="设计模式主要思想"><a href="#设计模式主要思想" class="headerlink" title="设计模式主要思想"></a>设计模式主要思想</h3><p>设计模式是在长期应用开发过程中，众多开发者总结归纳出来的程序架构与设计思想。是经过实践证明的，可在实际背景下使用的一系列程序设计方案。设计模式产生的根本目的就是为了解决开发过程中重复的代码编写，以及让程序更易扩展复用。</p><h4 id="设计模式的原则"><a href="#设计模式的原则" class="headerlink" title="设计模式的原则"></a>设计模式的原则</h4><ul><li>单一职责：每个类都应该实现单一的功能，否则应该将类进行拆分</li><li>里氏替换：即继承复用/合成复用。尽量使用合成/聚合的方式而不是继承。任何父类出现的地方，子类都可以出现。派生类可以在基类的基础上扩展自己的功能实现。是对“开闭原则”的一个补充。在里氏替换原则中，尽量不要对父类进行重载或者重写，因为父类代表一个定义好的结构，通过规范好的接口与外界进行交互，子类不应该随意破坏它，而是对其进行扩展。</li><li>依赖倒置：“开闭原则”的基础。即面向接口编程。依赖于抽象而不是依赖于具体的实现，编程时遇到具体的类时，不与具体的类交互，而与抽象接口进行交互。便于增加新的具体类的时候代码可以复用。</li><li>接口隔离：每个接口不应该存在子类用不到却必须实现的方法，否则就应该将接口拆分，将职责单一化。</li><li>最少知道：即迪米特法则。一个类对于自己依赖的类知道的越少越好，无论被依赖的类多么复杂，都应该将逻辑封装在方法内部，通过一个共有的方法提供给依赖类使用，这样当被依赖类发生改变的时候，才会尽可能少的影响依赖类。</li></ul><h3 id="设计模式的分类"><a href="#设计模式的分类" class="headerlink" title="设计模式的分类"></a>设计模式的分类</h3><blockquote><p>点击对应链接跳转到该设计模式的详细整理与代码示例</p></blockquote><table><thead><tr><th>范围</th><th>创建型模式</th><th>结构型模式</th><th>行为型模式</th></tr></thead><tbody><tr><td>对象创建</td><td><a href="http://archived.recklesscoder.com/blog/20190607/%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E4%B8%80%E4%B8%AA%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E7%9A%84%E5%8D%95%E4%BE%8B/">Singleton（单例模式）</a><br>Prototype(原型模式)<br>Factory Method（工厂方法模式）<br>Abstract Factory（抽象工厂模式）<br>Builder（建造者模式）</td><td></td><td></td></tr><tr><td>接口适配</td><td></td><td>Adapter（适配器模式）<br>Bridge（桥接模式）<br>Facade（外观模式）</td><td></td></tr><tr><td>对象解耦</td><td></td><td></td><td>Mediator（中介者模式）<br>Observer（观察者模式）</td></tr><tr><td>抽象集合</td><td></td><td>Composite（组合模式）</td><td>Iterator（迭代器模式）</td></tr><tr><td>行为扩展</td><td></td><td>Decorator（装饰模式）</td><td>Visitor（访问者模式）<br>Chain of Responsibility（职责链）</td></tr><tr><td>算法封装</td><td></td><td></td><td><a href="http://archived.recklesscoder.com/blog/20190707/%E3%80%90%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/">Template（模板方法模式）</a><br>Strategy（策略模式）</td></tr><tr><td>性能与对象访问</td><td></td><td>Flyweight（享元模式）<br>Proxy（代理模式）</td><td></td></tr><tr><td>对象状态</td><td></td><td></td><td>Memento（备忘录模式）<br>State（状态模式）</td></tr><tr><td>其他</td><td></td><td></td><td>Interpreter（解释器模式）</td></tr></tbody></table><h4 id="总结下设计模式的归类"><a href="#总结下设计模式的归类" class="headerlink" title="总结下设计模式的归类"></a>总结下设计模式的归类</h4><p><img src="/blog/20190812/【设计模式】设计模式基本思想以及23种模式总结整理/sjmo.png" alt="设计模式分类 - 幕布"></p><h4 id="创建型设计模式"><a href="#创建型设计模式" class="headerlink" title="创建型设计模式"></a>创建型设计模式</h4><p>创建型设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，使调用者无需new对象，在程序中针对给定业务场景去调用特定的对象创建方法，使程序更加灵活。</p><h4 id="行为型设计模式"><a href="#行为型设计模式" class="headerlink" title="行为型设计模式"></a>行为型设计模式</h4><p>行为型设计模式主要关注对象之间的通信。</p><h4 id="结构型设计模式"><a href="#结构型设计模式" class="headerlink" title="结构型设计模式"></a>结构型设计模式</h4><p>结构型设计模式关注类和对象的组合，继承的概念被用来组合接口和定义组合对象获得新功能的方式。</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
     
     <summary type="html">
     
@@ -563,16 +563,16 @@
     
     </summary>
     
-      <category term="Java基础" scheme="http://zhangjiaheng.cn/categories/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://archived.recklesscoder.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
     
-      <category term="设计模式" scheme="http://zhangjiaheng.cn/categories/Java%E5%9F%BA%E7%A1%80/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="http://archived.recklesscoder.com/categories/Java%E5%9F%BA%E7%A1%80/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-      <category term="Java基础" scheme="http://zhangjiaheng.cn/tags/Java%E5%9F%BA%E7%A1%80/"/>
+      <category term="Java基础" scheme="http://archived.recklesscoder.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
-      <category term="设计模式" scheme="http://zhangjiaheng.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="http://archived.recklesscoder.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
-      <category term="设计模式基本思想" scheme="http://zhangjiaheng.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%9D%E6%83%B3/"/>
+      <category term="设计模式基本思想" scheme="http://archived.recklesscoder.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%80%9D%E6%83%B3/"/>
     
   </entry>
   

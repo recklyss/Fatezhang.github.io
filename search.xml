@@ -1010,7 +1010,7 @@
 <tbody>
 <tr>
 <td>对象创建</td>
-<td><a href="http://zhangjiaheng.cn/blog/20190607/%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E4%B8%80%E4%B8%AA%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E7%9A%84%E5%8D%95%E4%BE%8B/">Singleton（单例模式）</a><br>Prototype(原型模式)<br>Factory Method（工厂方法模式）<br>Abstract Factory（抽象工厂模式）<br>Builder（建造者模式）</td>
+<td><a href="http://archived.recklesscoder.com/blog/20190607/%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E4%B8%80%E4%B8%AA%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E7%9A%84%E5%8D%95%E4%BE%8B/">Singleton（单例模式）</a><br>Prototype(原型模式)<br>Factory Method（工厂方法模式）<br>Abstract Factory（抽象工厂模式）<br>Builder（建造者模式）</td>
 <td></td>
 <td></td>
 </tr>
@@ -1042,7 +1042,7 @@
 <td>算法封装</td>
 <td></td>
 <td></td>
-<td><a href="http://zhangjiaheng.cn/blog/20190707/%E3%80%90%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/">Template（模板方法模式）</a><br>Strategy（策略模式）</td>
+<td><a href="http://archived.recklesscoder.com/blog/20190707/%E3%80%90%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E3%80%91%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/">Template（模板方法模式）</a><br>Strategy（策略模式）</td>
 </tr>
 <tr>
 <td>性能与对象访问</td>
